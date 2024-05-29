@@ -3,3 +3,6 @@ jupyter
 pyarrow
 scikit-learn
 numpy
+mlflow
+click
+hyperopt
